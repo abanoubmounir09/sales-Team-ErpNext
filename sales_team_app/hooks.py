@@ -12,6 +12,10 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+domains = {
+	'Sales Team':'sales_team_app.domains.sales_team',
+}
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/sales_team_app/css/sales_team_app.css"
 # app_include_js = "/assets/sales_team_app/js/sales_team_app.js"
